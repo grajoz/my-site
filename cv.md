@@ -2,36 +2,50 @@
 
 ***
 
-#Pavel Grachev
+# Pavel Grachev
 
 ***
 
 Contact Info:
-|--------:|:------------------------:|
+
 |Email:| *grajoz@yandex.ru*|
 |tel:|02|
 
 ***
 
-##Summary:
+## Summary:
 I like learning something new and really want to change my sphere of activity.
 
-##Skills:
+## Skills:
 * HTML
 * CSS
 * JAVA
 * VB
 * ~Javascript Basics~
-##Expirience
+
+
+## Expirience
 Coding landing pages, coding android, drive in taxi.
 
-##Education
+## Education
 STATE TECHNICAL UNIVERSITY OF SARATOV
 
-##English
+## English
 simle
 
 ***
 
-###Цитаты
+### Цитаты
 > ***learning learning and learning again***
+
+***
+***
+###### CODE
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
