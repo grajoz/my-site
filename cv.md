@@ -1,0 +1,37 @@
+[rsschool-cv](https://grajoz.github.io/rsschool-cv/cv)
+
+***
+
+#Pavel Grachev
+
+***
+
+Contact Info:
+|--------:|:------------------------:|
+|Email:| *grajoz@yandex.ru*|
+|tel:|02|
+
+***
+
+##Summary:
+I like learning something new and really want to change my sphere of activity.
+
+##Skills:
+* HTML
+* CSS
+* JAVA
+* VB
+* ~Javascript Basics~
+##Expirience
+Coding landing pages, coding android, drive in taxi.
+
+##Education
+STATE TECHNICAL UNIVERSITY OF SARATOV
+
+##English
+simle
+
+***
+
+###Цитаты
+> ***learning learning and learning again***
